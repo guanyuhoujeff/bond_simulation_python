@@ -35,12 +35,6 @@
 [![在 Colab 中開啟](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/bond_simulation_python/blob/main/bond_simulation_tutorial.ipynb)
 點擊上方按鈕即可直接在 Google Colab 中開啟 `bond_simulation_tutorial.ipynb`。
 
-如果按鈕無法使用，請依照以下手動步驟操作：
-1.  前往 [Google Colab](https://colab.research.google.com/)。
-2.  在彈出視窗中選擇「GitHub」分頁。
-3.  在「輸入 GitHub 網址或使用者/存放區...」的欄位中，貼上本專案的 GitHub 網址：`https://github.com/guanyuhoujeff/bond_simulation_python.git`
-4.  按下 Enter 鍵或搜尋，從下方的檔案清單中選擇 `bond_simulation_tutorial.ipynb`。
-
 ---
 
 ### 聯絡方式
